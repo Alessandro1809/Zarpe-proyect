@@ -1,0 +1,47 @@
+{
+    "headerHome":"INICIO",
+    "headerAbout":"ACERCA",
+    "headerServices":"SERVICIOS",
+    "headerContact":"CONTACTO",
+    "welcomeText":"CELEBRANDO COMIDA Y DIAS ESPECIALES!",
+    "knowMore":"Conoce mas sobre nosotros!",
+
+
+    "aboutUs":"Sobre Nosotros",
+    "aboutFirst":"Bienvenido a Zarpe, tu socio perfecto para eventos inolvidables. Nos especializamos en ofrecer experiencias gastronómicas únicas a través de nuestros innovadores snacks y servicios de catering. Desde mini panckakes y fiambres hasta barras de nachos, cócteles y shots, en Zarpe llevamos diversión y sabor a tu evento.",
+    "aboutSecond":"Zarpe es tu compañero perfecto para hacerlo inolvidable. Trabajaremos estrechamente con usted para comprender su visión y crear una experiencia gastronómica que supere las expectativas.",
+    "seeServices":"Mira nuestros servicios!",
+
+
+    "services":"SERVICIOS",
+    "serviceCatalog":"Nuestro Catálogo de Servicios",
+    "serviceDiscover":"Descubre un mundo de sabores con nuestras barras especializadas:",
+    "serviceDownloadMenus":"Descarga los menús.",
+    "serviceMenu1":"Menú",
+    "serviceMenu2":"Menú",
+    "serviceMenu3":"Menú",
+    "serviceMenu4":"Menú",
+    "serviceMenu5":"Menú",
+    "serviceNachoBar":"Barra de Nachos:",
+    "serviceNachoDesc":"Disfruta de la textura crujiente de los nachos con las mejores salsas.",
+    "serviceColdCuts":"Barra de Fiambres y Quesos:",
+    "serviceColdCutsDesc":"Una exquisita selección para los amantes de los embutidos y los quesos.",
+    "serviceCoctail":"Barra de Cócteles:",
+    "serviceCoctailDesc":"Eleve su evento con nuestras creaciones de cócteles y tragos.",
+    "serviceCrepalets":"Crepaletas:",
+    "serviceCrepaletsDesc":"Las crepaletas son un sueño hecho realidad para los amantes de las crepas y las galletas.",
+    "serviceSweetSalad":"Barra de snacks dulce o salada:",
+    "serviceSweetSaladDesc":"Los snacks dulces y salados son la combinación perfecta para cualquier ocasión.",
+    "seviceContact":"Contactanos!",
+
+
+    "contact":"CONTACTO",
+    "contacText":"Síguenos en nuestras redes sociales para estar al día de nuestras últimas creaciones y eventos:",
+    "contactQR":"¡Escanea el código para un chat rápido!",
+    "contactEvents":"En ZARPE transformamos los eventos en experiencias inolvidables.",
+    "contactMatch":"¡Contáctanos para que tu próximo evento sea inigualable!",
+
+
+    "madeFor":"Esta web fue hecha por Alessandro Diaz"
+
+}

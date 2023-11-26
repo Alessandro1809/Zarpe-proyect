@@ -1,0 +1,47 @@
+{
+    "headerHome":"Home",
+    "headerAbout":"About",
+    "headerServices":"Services",
+    "headerContact":"Contact",
+    "welcomeText":"CELEBRATING FOOD AND SPECIAL DAYS!",
+    "knowMore":"Know more about us!",
+
+
+    "aboutUs":"ABOUT US",
+    "aboutFirst":"Welcome to Zarpe, your perfect partner for unforgettable events. We specialize in offering gastronomic experiences unique through our innovative snack bars and catering services. From mini panckakes and cold cuts to nacho bars, cocktails and shots, at Zarpe we carryfun and flavor to your event.",
+    "aboutSecond":"Zarpe is your perfect companion to make it unforgettable. We will work closely with you to understand your vision and create a dining experience that exceeds expectations.",
+    "seeServices":"See our services!",
+
+
+    "services":"SERVICES",
+    "serviceCatalog":"Our Service catalog",
+    "serviceDiscover":"Discover a world of flavors with our specialized bars:",
+    "serviceDownloadMenus":"Download the menus",
+    "serviceMenu1":"Menu",
+    "serviceMenu2":"Menu",
+    "serviceMenu3":"Menu",
+    "serviceMenu4":"Menu",
+    "serviceMenu5":"Menu",
+    "serviceNachoBar":"Nachos Bar:",
+    "serviceNachoDesc":"Enjoy the crunchy texture of nachos with the best sauces.",
+    "serviceColdcuts":"Cold cuts and Cheeses:",
+    "serviceColdCutsDesc":"An exquisite selection for lovers of cold cuts and cheeses.",
+    "serviceCoctail":"Cocktail and Shots Bar:",
+    "serviceCoctailDesc":"Elevate your event with our cocktail and shot creations.",
+    "serviceCrepalets":"Crepalets:",
+    "serviceCrepaletsDesc":"Crepalettes are a dream come true for crepe and cookie lovers.",
+    "serviceSweetSalad":"Sweet or salad snacks bar:",
+    "serviceSweetSaladDesc":"Sweet and salty snacks are the perfect combination for any occasion.",
+    "seviceContact":"Contact us!",
+
+
+    "contact":"CONTACT",
+    "contacText":"Follow us on our social networks to stay up to date with our latest creations and events:",
+    "contactQR":"Scan the code to a quick chat!",
+    "contactEvents":"At ZARPE, we transform events into unforgettable experiences.",
+    "contactMatch":"Contact us to make your next event unmatched!",
+
+
+    "madeFor":"This web was made by Alessandro Diaz"
+
+}
