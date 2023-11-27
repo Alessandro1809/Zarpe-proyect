@@ -2,6 +2,7 @@ import down from '../assets/down.png'
 import { Link } from 'react-scroll';
 import download from '../assets/download.png'
 import { FormattedMessage } from 'react-intl';
+import ojo from '../assets/ojo.png'
 //animation library
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -39,6 +40,9 @@ const Services = () => {
                         <div className='flex items-center justify-center mt-2 text-xs font-semibold transition duration-500 hover:scale-105 lg:text-sm md:text-sm sm:text-sm'>
                             <a className='flex items-center text-center' href='/BarraNachos.pdf' download><img className='w-6 lg:w-6 md:w-6 sm:w-6' src={download} alt="" /> <FormattedMessage id='serviceMenu1' defaultMessage="Menu"/></a>
                         </div>
+                        <div className='flex items-center justify-center mt-2 text-xs font-semibold transition duration-500 hover:scale-105 lg:text-sm md:text-sm sm:text-sm'>
+                            <a className='flex items-center text-center' href='/BarraNachos.pdf' target='__Blank'><img className='w-6 lg:w-6 md:w-6 sm:w-6' src={ojo} alt="" /> <FormattedMessage id='serviceWatch' defaultMessage="Watch Menu"/></a>
+                        </div>
                     </div>
                 </div>
                 <div className="p-2 text-black bg-white rounded-lg lg:p-4 lg:w-4/3 md:p-4 sm:p-4"data-aos="fade-right" >
@@ -48,6 +52,9 @@ const Services = () => {
                         <div className='flex items-center justify-center mt-2 text-xs font-semibold transition duration-500 hover:scale-105 lg:text-sm md:text-sm sm:text-sm'>
                             <a className='flex items-center text-center' href='/BarraFiambresQuesos.pdf' download><img className='w-6 lg:w-6 md:w-6 sm:w-6' src={download} alt="" /> <FormattedMessage id='serviceMenu2' defaultMessage="Menu"/></a>
                         </div>
+                        <div className='flex items-center justify-center mt-2 text-xs font-semibold transition duration-500 hover:scale-105 lg:text-sm md:text-sm sm:text-sm'>
+                            <a className='flex items-center text-center' href='/BarraFiambresQuesos.pdf'target='__Blank' ><img className='w-6 lg:w-6 md:w-6 sm:w-6' src={ojo} alt="" /> <FormattedMessage id='serviceWatch1' defaultMessage="Watch menu"/></a>
+                        </div>
                     </div>
                 </div>
                 <div className="p-2 text-black bg-white rounded-lg lg:p-4 lg:w-4/3 md:p-4 sm:p-4"data-aos="fade-right" >
@@ -56,6 +63,9 @@ const Services = () => {
                         <p className='text-sm font-semibold sm:text-sm lg:text-lg md:text-normal'><FormattedMessage id='serviceCoctailDesc' defaultMessage="Elevate your event with our cocktail and shot creations."/></p>
                         <div className='flex items-center justify-center mt-2 text-xs font-semibold transition duration-500 hover:scale-105 lg:text-sm md:text-sm sm:text-sm'>
                             <a className='flex items-center text-center' href='/BarraCocteles.pdf' download><img className='w-6 lg:w-6 md:w-6 sm:w-6' src={download} alt="" /> <FormattedMessage id='serviceMenu3' defaultMessage="Menu"/></a>
+                        </div>
+                        <div className='flex items-center justify-center mt-2 text-xs font-semibold transition duration-500 hover:scale-105 lg:text-sm md:text-sm sm:text-sm'>
+                            <a className='flex items-center text-center' href='/BarraCocteles.pdf' target='__Blank' ><img className='w-6 lg:w-6 md:w-6 sm:w-6' src={ojo} alt="" /> <FormattedMessage id='serviceWatch2' defaultMessage="Watch menu"/></a>
                         </div>
                     </div>
                 </div>
@@ -67,6 +77,9 @@ const Services = () => {
                         <div className='flex items-center justify-center mt-2 text-xs font-semibold transition duration-500 hover:scale-105 lg:text-sm md:text-sm sm:text-sm'>
                             <a className='flex items-center text-center' href='/BarraCrepaletas.pdf' download><img className='w-6 lg:w-6 md:w-6 sm:w-6' src={download} alt="" /> <FormattedMessage id='serviceMenu4' defaultMessage="Menu"/></a>
                         </div>
+                        <div className='flex items-center justify-center mt-2 text-xs font-semibold transition duration-500 hover:scale-105 lg:text-sm md:text-sm sm:text-sm'>
+                            <a className='flex items-center text-center' href='/BarraCrepaletas.pdf' target='__Blank'  ><img className='w-6 lg:w-6 md:w-6 sm:w-6' src={ojo} alt="" /> <FormattedMessage id='serviceWatch3' defaultMessage="Watch menu"/></a>
+                        </div>
                     </div>
                 </div>
                 <div className="col-start-1 col-end-3 p-2 text-black bg-white rounded-lg lg:p-4 lg:w-4/3 md:p-4 sm:p-4"data-aos="fade-right" >
@@ -75,6 +88,9 @@ const Services = () => {
                         <p className='text-sm font-semibold sm:text-sm lg:text-lg md:text-normal'><FormattedMessage id='serviceSweetSaladDesc' defaultMessage="Sweet and salty snacks are the perfect combination for any occasion."/></p>
                         <div className='flex items-center justify-center mt-2 text-xs font-semibold transition duration-500 hover:scale-105 lg:text-sm md:text-sm sm:text-sm'>
                             <a className='flex items-center text-center' href='/BarraSaladaODulce.pdf' download><img className='w-6 lg:w-6 md:w-6 sm:w-6' src={download} alt="" /> <FormattedMessage id='serviceMenu5' defaultMessage="Menu"/></a>
+                        </div>
+                        <div className='flex items-center justify-center mt-2 text-xs font-semibold transition duration-500 hover:scale-105 lg:text-sm md:text-sm sm:text-sm'>
+                            <a className='flex items-center text-center' href='/BarraSaladaODulce.pdf' target='__Blank'><img className='w-6 lg:w-6 md:w-6 sm:w-6' src={ojo} alt="" /> <FormattedMessage id='serviceWatch4' defaultMessage="Watch menu"/></a>
                         </div>
                     </div>
                 </div>

@@ -14,20 +14,20 @@ const VerticalButtons = () => {
     <>
          <div className="flex justify-center gap-10 mb-4">
             <div className='flex-col'data-aos="fade-right" >
-              <button className="flex items-center w-32 mb-2 transition duration-500 bg-gray-600 rounded-lg lg:h-16 lg:w-44 hover:scale-110 lg:mt-5 md:h-12 md:w-40 md:mb-4 sm:w-40 sm:mb-5" >
+            <Link to='https://www.facebook.com/profile.php?id=61554017310537' target="_blank"><button className="flex items-center w-32 mb-2 transition duration-500 bg-gray-600 rounded-lg lg:h-16 lg:w-44 hover:scale-110 lg:mt-5 md:h-12 md:w-40 md:mb-4 sm:w-40 sm:mb-5" >
                   <img className='w-10 h-auto' src={facebokLogo} alt="" />
                   <p className='ml-2 text-white lg:text-xl'>Facebook</p>
-              </button>
+              </button></Link>
               
-              <button className="flex items-center w-32 mb-2 transition duration-500 bg-gray-600 rounded-lg lg:h-16 lg:w-44 hover:scale-110 lg:mt-5 md:h-12 md:w-40 md:mb-4 sm:w-40 sm:mb-5" >
+              <Link to='https://www.instagram.com/zarpe_cr_/' target="_blank"><button className="flex items-center w-32 mb-2 transition duration-500 bg-gray-600 rounded-lg lg:h-16 lg:w-44 hover:scale-110 lg:mt-5 md:h-12 md:w-40 md:mb-4 sm:w-40 sm:mb-5" >
                   <img className='w-10 h-auto' src={instaLogo} alt="" />
                   <p className='ml-2 text-white lg:text-xl'>Instagram</p>
-              </button>
+              </button></Link>
               
-              <button className="flex items-center w-32 mb-2 transition duration-500 bg-gray-600 rounded-lg lg:h-16 lg:w-44 hover:scale-110 lg:mt-5 md:h-12 md:w-40 md:mb-4 sm:w-40 sm:mb-5" >
+              <Link to='https://www.tiktok.com/@zarpe.snacks?_t=8hfLQ9ZIFss&_r=1' target="_blank"> <button className="flex items-center w-32 mb-2 transition duration-500 bg-gray-600 rounded-lg lg:h-16 lg:w-44 hover:scale-110 lg:mt-5 md:h-12 md:w-40 md:mb-4 sm:w-40 sm:mb-5" >
                   <img className='w-10 h-auto' src={tiktokLogo} alt="" />
                   <p className='ml-2 text-white lg:text-xl'>Tiktok</p>
-              </button>
+              </button></Link>
     
               <Link to='https://wa.link/8z3084'> <button className="flex items-center w-32 mb-2 transition duration-500 bg-gray-600 rounded-lg lg:h-16 lg:w-44 hover:scale-110 lg:mt-5 md:h-12 md:w-40 sm:w-40 sm:mb-5" >
               <img className='w-10 h-auto' src={whatsappLogo} alt="" />
