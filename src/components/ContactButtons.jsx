@@ -7,7 +7,7 @@ const ContactButtons = () => {
   return (
     <>
         <div className="flex justify-center gap-3 mb-20 lg:gap-10 md:gap-4 sm:gap-4">
-            <Link to='https://www.facebook.com/ZarpeCateringService' target="_blank"> <button className="flex items-center transition duration-500 bg-gray-600 rounded-lg lg:h-12 lg:w-44 hover:scale-110 md:w-40 sm:w-32">
+            <Link to='https://www.facebook.com/ZarpeSnacks' target="_blank"> <button className="flex items-center transition duration-500 bg-gray-600 rounded-lg lg:h-12 lg:w-44 hover:scale-110 md:w-40 sm:w-32">
                     <img className='w-10 h-auto' src={facebokLogo} alt="" />
                     <p className='hidden p-2 text-white lg:text-xl md:text-xl sm:text-sm lg:block md:block sm:block'>Facebook</p>    
             </button></Link>
